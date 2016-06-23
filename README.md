@@ -1,19 +1,19 @@
 # SEARCH-IN-PACMAN
-This is an Artificial Inteligence Project. 
-In this project, Pacman agent finds paths through his maze world, both to reach a particular location and to collect food efficiently. 
-I have build general search algorithms and apply them to Pacman scenarios. 
-Algorithms:
-  >> Depth First Search
-  >> Breadth First Search
-  >> Uniform Cost Search
-  >> A* search
+This is an Artificial Inteligence Project.  
+In this project, Pacman agent finds paths through his maze world, both to reach a particular location and to collect food efficiently.   
+I have build general search algorithms and apply them to Pacman scenarios.  
+Algorithms:  
+  >> Depth First Search  
+  >> Breadth First Search  
+  >> Uniform Cost Search  
+  >> A* search  
 Conditions Handled: 
-  >> Finding All the Corners
-  >> Corners Heuristic
-  >> Eating All The Dots
-  >> Suboptimal Search
+  >> Finding All the Corners  
+  >> Corners Heuristic  
+  >> Eating All The Dots  
+  >> Suboptimal Search  
   
-Language Used: Python 2.7
+Language Used: Python 2.7  
 __________________________________________________________________
 If you wish to test this project in Windows
   1. Make sure you have Python installed. 
