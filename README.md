@@ -14,7 +14,7 @@ Algorithms:
   >> Eating All The Dots  
   >> Suboptimal Search  
   
-Language Used: Python 2.7  
+Language Used: Python 2  
 __________________________________________________________________
 If you wish to test this project in Windows  
   1. Make sure you have Python installed.   
